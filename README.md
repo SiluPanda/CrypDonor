@@ -5,7 +5,7 @@ To run the App, you must have node js and it's packages installed in your machin
 
 1. clone the repo.
 2. open a terminal and go the repo.
-2. installed packages by running the command $npm install  
+2. install packages by running the command $npm install  
 3. install metamask chrome/firefox extension and create a profile. you must have non-zero amount of ethereum in your account.
 4. open another terminal and run $ testrpc
 5. to start the app, run $ node app.js
