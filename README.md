@@ -11,6 +11,6 @@ To run the App, you must have node js and it's packages installed in your machin
 5. to start the app, run $ node app.js
 6. visit localhost:3020
 
-This is designed by: 1. Medha Pandey (https://github.com/Medha08)
+This is crafted by: 1. Medha Pandey (https://github.com/Medha08)
                      2. Silu Panda (https://github.com/SiluPanda)
                      3. Eshan Arora (https://github.com/thisiseshan)
