@@ -13,5 +13,5 @@ To run the App, you must have node js and it's packages installed in your machin
 
 This is crafted by: 
 1. [Medha Pandey](https://github.com/Medha08)
-2. [Silu Panda](https://github.com/SiluPanda
+2. [Silu Panda](https://github.com/SiluPanda)
 3. [Eshan Arora](https://github.com/thisiseshan)
